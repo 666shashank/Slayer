@@ -1,5 +1,5 @@
 int main()
 {
-  //Resolved conflict
-  return 10;
+  //Create conflict
+  return 1000;
 }
